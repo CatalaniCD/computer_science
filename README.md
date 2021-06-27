@@ -42,5 +42,5 @@ This repository is about computer science and programming using python3.8 and C+
   - Exhaustive Approximations, Deep Learning Solvers
 
  ##### Software Engineering
-  - Concept : Master Abstraction, Algorithmic Solutions and Automation
+  - Concept : Master Abstraction, Algorithmic Solutions and Automation (AAA)
   - Data Modelling Principles
