@@ -1,4 +1,4 @@
-# Solve it by computer, R.G Dromey
+# Solve it by Computer, R.G Dromey
 
 1. Computer Problem Solving
 2. Fundamental Algorithms
