@@ -41,6 +41,13 @@ This repository is about computer science and programming using python3.8 and C+
   - Greedy Algorithm
   - Exhaustive Approximations, Deep Learning Solvers
 
+ ##### Simulation
+  - Concept : Track the evolution of a complex math model
+                  to measure outcomes or performance.
+  - Types : Deterministic, Stochastic, 
+            Continuous, Discrete,
+            Static, Dynamic
+
  ##### Software Engineering
   - Concept : Master Abstraction, Algorithmic Solutions and Automation (AAA)
   - Data Modelling Principles
