@@ -11,8 +11,8 @@ In the simplest case, an optimization problem consists of maximizing or minimizi
 input values from within an allowed set and computing the value of the function. The generalization of optimization theory and 
 techniques to other formulations constitutes a large area of applied mathematics. M
 ore generally, optimization includes finding "best available" values of some objective function given a defined domain (or input), 
-including a variety of different types of objective functions and different types of domains. 
-Source : https://en.wikipedia.org/wiki/Mathematical_optimization 
+including a variety of different types of objective functions and different types of domains.
+    Source : https://en.wikipedia.org/wiki/Mathematical_optimization 
 
 ### Constrained Optimization
 
@@ -22,7 +22,7 @@ The objective function is either a cost function or energy function, which is to
 utility function, which is to be maximized. Constraints can be either hard constraints, which set conditions for the 
 variables that are required to be satisfied, or soft constraints, which have some variable values that are penalized 
 in the objective function if, and based on the extent that, the conditions on the variables are not satisfied. 
-Source :  https://en.wikipedia.org/wiki/Constrained_optimization
+    Source :  https://en.wikipedia.org/wiki/Constrained_optimization
 
 ### Combinatorial Optimization
 
@@ -41,7 +41,7 @@ Some research literature considers discrete optimization to consist of integer p
 with combinatorial optimization (which in turn is composed of optimization problems dealing with graph structures) 
 although all of these topics have closely intertwined research literature. 
 It often involves determining the way to efficiently allocate resources used to find solutions to mathematical problems. 
-Source : https://en.wikipedia.org/wiki/Combinatorial_optimization
+    Source : https://en.wikipedia.org/wiki/Combinatorial_optimization
 
 ## Search Space
 
@@ -74,5 +74,4 @@ In linear programming problems, the feasible set is a convex polytope: a region 
 by hyperplanes and whose corners are vertices.
 
 Constraint satisfaction is the process of finding a point in the feasible region.
-
-source : https://en.wikipedia.org/wiki/Feasible_region
+    Source : https://en.wikipedia.org/wiki/Feasible_region
