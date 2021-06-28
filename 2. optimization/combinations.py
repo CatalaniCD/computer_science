@@ -6,7 +6,7 @@ Created on Sat May 29 09:30:09 2021
 
 @author: q
 
-GOAL : Yield all possible combinations from a set
+GOAL : Yield all possible binary combinations from a set
 
 """
 
