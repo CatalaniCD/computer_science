@@ -1,6 +1,6 @@
 # Solve it by Computer, R.G Dromey
 
-1. [Computer Problem Solving](https://github.com/CatalaniCD/computer_science/edit/main/0.%20algorithms/algorithms.md)
+1. [Computer Problem Solving](https://github.com/CatalaniCD/computer_science/blob/main/0.%20algorithms/algorithms.md)
 2. Fundamental Algorithms
     2.1 Exchanging values of two variables
     2.2 Counting
