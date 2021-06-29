@@ -1,29 +1,29 @@
 # Introduction to Computer Problem Solving
 
-### 1.1 - Introduction
+### 1.1 | Introduction
      1.1.1 Programs and Algorithms
      1.1.2 Requirements for solving problems by computer
-### 1.2 - The Problem Solving Aspect
+### 1.2 | The Problem Solving Aspect
     1.2.1 Problem Definition Phase
     1.2.2 Getting Started with the problem
     1.2.3 The use of specific examples
     1.2.4 Similarities among problems
     1.2.5 Working backwards from the solution
     1.2.6 Geneal problem-solving strategies
-### 1.3 - Top-Down Design
+### 1.3 | Top-Down Design
     1.3.1 Breaking a problem into sub-problems
     1.3.2 Choice of a suitable data structure
     1.3.3 Construction of loops
     1.3.4 Establishing initial conditions for loops
     1.3.5 Finding the iterative construct
     1.3.6 Termination of loops
-### 1.4 - Implementation of Algorithms
+### 1.4 | Implementation of Algorithms
     1.4.1 Use of procedures to emphasize the modularity
     1.4.2 Choice of variable names
     1.4.3 Documentation of programs
     1.4.4 Debugging of programs
     1.4.5 Program Testing
-### 1.5 - Program Verification
+### 1.5 | Program Verification
     1.5.1 Computer model for program execution
     1.5.2 Input and output assertions
     1.5.3 Implications and simbolic execution
@@ -32,13 +32,13 @@
     1.5.6 Verification of program segments with loops
     1.5.7 Verification of program segments that employ arrays
     1.5.8 Proof of termination
-### 1.6 - Efficiency of algorithms
+### 1.6 | Efficiency of algorithms
     1.6.1 Redundant computations
     1.6.2 Referencing array elements
     1.6.3 Inneficiency due to late termination
     1.6.4 Early detection of desired output conditions
     1.6.5 Trading storage for efficiency gains
-### 1.7 - The analysis of Algorithms
+### 1.7 | The analysis of Algorithms
     1.7.1 Computational Complexity
     1.7.2 The order notation
     1.7.3 Worst and average case notation
