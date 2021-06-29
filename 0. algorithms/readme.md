@@ -1,6 +1,13 @@
 # Solve it by Computer, R.G Dromey
 
 ### 1. [Computer Problem Solving](https://github.com/CatalaniCD/computer_science/blob/main/0.%20algorithms/algorithms.md)
+    1.1 Introduction
+    1.2 The problem-solving aspect
+    1.3 Top-Down Design
+    1.4 Implemetation of Algorithms
+    1.5 Program Verification
+    1.6 The efficienct of Algorithms
+    1.7 The analysis of Algorithms
 ### 2. Fundamental Algorithms
     2.1 Exchanging values of two variables
     2.2 Counting
