@@ -39,7 +39,7 @@ This repository is about computer science and programming using python3.8 and C+
   - Least Squares Solution
   - Brute Force Algorithm
   - Greedy Algorithm
-  - Exhaustive Approximations, Deep Learning Solvers
+  - Convex optimization, Deep Learning Solvers
 
  ##### Simulation
   - Concept : Track the evolution of a complex math model
