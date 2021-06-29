@@ -25,6 +25,17 @@ variables that are required to be satisfied, or soft constraints, which have som
 in the objective function if, and based on the extent that, the conditions on the variables are not satisfied. 
     
 Source :  https://en.wikipedia.org/wiki/Constrained_optimization
+### Convex Optimization
+
+Convex optimization is a subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets.
+Many classes of convex optimization problems admit polynomial-time algorithms, whereas mathematical optimization is in general NP-hard.
+
+Convex optimization has applications in a wide range of disciplines, such as automatic control systems, estimation and signal processing, 
+communications and networks, electronic circuit design, data analysis and modeling, finance, statistics (optimal experimental design), 
+and structural optimization, where the approximation concept has proven to be efficient. With recent advancements in computing and 
+optimization algorithms, convex programming is nearly as straightforward as linear programming.
+
+Source : https://en.m.wikipedia.org/wiki/Convex_optimization
 
 ### Combinatorial Optimization
 
