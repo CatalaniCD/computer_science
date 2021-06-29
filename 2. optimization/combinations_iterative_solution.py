@@ -13,7 +13,7 @@ GOAL : from binary_tree to n possible combinations in a set
 source : 
     
     - https://en.wikipedia.org/wiki/Knapsack_problem
-    - https://en.wikipedia.org/wiki/Combinatorics
+    - https://en.wikipedia.org/wiki/Combinations
     - https://en.wikipedia.org/wiki/Power_set
 
 """
