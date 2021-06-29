@@ -9,13 +9,16 @@ This repository is about computer science and programming using python3.8 and C+
   - Deques
 
  ##### Trees
-  - Tree Traversals
+  - Traversals
+  - Insertion
+  - Search
  
  ##### Graphs
   - Graph - Digraph
   - Breadth First Search ( BFS )
   - Deep First Search ( DFS )
   - Cycle Finding
+  - Create a Graph from and Adjacency Matrix
 
  ##### Number Theory
   - Fibonacci Numbers
