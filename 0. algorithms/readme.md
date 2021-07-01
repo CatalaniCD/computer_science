@@ -9,7 +9,7 @@
     1.6 The efficienct of Algorithms
     1.7 The analysis of Algorithms
 ### 2. Fundamental Algorithms
-    2.1 [Exchanging values of two variables](https://github.com/CatalaniCD/computer_science/blob/main/0.%20algorithms/2_1_swap_values.cpp)
+    2.1 Exchanging values of two variables
     2.2 Counting
     2.3 Summation of a set of numbers
     2.4 Factorial Computation
