@@ -40,9 +40,9 @@
     5.1 The Two-Way Merge
     5.2 Sorting by Selection
     5.3 Sorting by Exchange
-    5.3 Sorting by Insertion
-    5.4 Sorting by Diminishing Increment
-    5.5 Sorting by Partitioning
+    5.4 Sorting by Insertion
+    5.5 Sorting by Diminishing Increment
+    5.6 Sorting by Partitioning
     5.7 Binary Search
     5.8 Hash Searching
 ### 6. Text Processing and Pattern Searching
