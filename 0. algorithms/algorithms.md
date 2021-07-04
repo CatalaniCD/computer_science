@@ -26,12 +26,22 @@
     1.2.1 Problem Definition Phase
     - Work out "what must be done?" rather than "how to do it?"
     - Extract from the problem statement ( often quite imprecise and maybe even ambiguous) a set of precisely defined tasks.
+    
     1.2.2 Getting Started with the problem
+    - Always there are many ways to solve a problem, then is important how to decide which are fruitless and which productive
+    - If goes straight to the implementations, there is a block. Here is required to work out in an implementation-independent solution.
+    - Not to be concerned about detail
+    - Old Computer Proberb : " the sooner you start coding your program, the longer it is going to take "
     
     1.2.3 The use of specific examples
+    - Map the specific problem to an general type of problem and try to work out the mechanism that will allow us 
+    to solve this specific problem.
+    - Geometrical or schematic diagrams representing certain aspects of the problem can be usefully employed in many instances
+    
     1.2.4 Similarities among problems
     1.2.5 Working backwards from the solution
     1.2.6 Geneal problem-solving strategies
+    
 ### 1.3 | Top-Down Design
     1.3.1 Breaking a problem into sub-problems
     1.3.2 Choice of a suitable data structure
