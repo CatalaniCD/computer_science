@@ -1,6 +1,11 @@
 # Introduction to Computer Problem Solving
 
 ### 1.1 | Introduction
+
+     Computer problem solving is demanding! requires thought, careful planning, logical precision, persistence and attention to detail.
+     But is also Challenging, Exiting, and satisfiying experience with considerable room for personal creativity and expression.
+     Approach with this spirit and your chances of success are greatly amplified!
+     
      1.1.1 Programs and Algorithms
      - Goal of the Book : Study in depth the process of algorithm design with particular emphasis of problem solving of the task.
      - Program : A set of explicit and unambiguous instructions expressed in a programming language.
@@ -15,11 +20,14 @@
      - Phone Directory Problem : Only when a Data Structure is symbolically linked with an algorithm we can expect high performance.
   
 ### 1.2 | The Problem Solving Aspect
+
+    """ Computer problem solving is about understanding """
+    
     1.2.1 Problem Definition Phase
-    - "Computer problem solving is about understanding"
-    1.2.2 Getting Started with the problem
     - Work out "what must be done?" rather than "how to do it?"
     - Extract from the problem statement ( often quite imprecise and maybe even ambiguous) a set of precisely defined tasks.
+    1.2.2 Getting Started with the problem
+    
     1.2.3 The use of specific examples
     1.2.4 Similarities among problems
     1.2.5 Working backwards from the solution
