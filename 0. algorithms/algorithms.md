@@ -39,6 +39,7 @@
     - Geometrical or schematic diagrams representing certain aspects of the problem can be usefully employed in many instances
     
     1.2.4 Similarities among problems
+    ***
     1.2.5 Working backwards from the solution
     1.2.6 Geneal problem-solving strategies
     
