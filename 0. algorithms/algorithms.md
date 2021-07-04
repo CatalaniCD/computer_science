@@ -16,7 +16,10 @@
   
 ### 1.2 | The Problem Solving Aspect
     1.2.1 Problem Definition Phase
+    - "Computer problem solving is about understanding"
     1.2.2 Getting Started with the problem
+    - Work out "what must be done?" rather than "how to do it?"
+    - Extract from the problem statement ( often quite imprecise and maybe even ambiguous) a set of precisely defined tasks.
     1.2.3 The use of specific examples
     1.2.4 Similarities among problems
     1.2.5 Working backwards from the solution
