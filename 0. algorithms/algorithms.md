@@ -2,7 +2,18 @@
 
 ### 1.1 | Introduction
      1.1.1 Programs and Algorithms
+     - Goal of the Book : Study in depth the process of algorithm design with particular emphasis of problem solving of the task.
+     - Program : A set of explicit and unambiguous instructions expressed in a programming language.
+     - Input : Data provided to a program to produce the output
+     - Output : Computer solution to a problem
+     - Algorithm : A set of explicit and unambiguous finite steps which when carried out for a given set of initial conditions, 
+     produce the corresponding output and terminate in a finite time.
+     
      1.1.2 Requirements for solving problems by computer
+     - Algorithm Desing requires a "CONCIOUS DEPTH UNDESTANDING" far greater than than we are likely to encounter in almost
+     any other problem-solving situation.
+     - Phone Directory Problem : Only when a Data Structure is symbolically linked with an algorithm we can expect high performance.
+  
 ### 1.2 | The Problem Solving Aspect
     1.2.1 Problem Definition Phase
     1.2.2 Getting Started with the problem
