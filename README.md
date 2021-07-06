@@ -38,6 +38,8 @@ This repository is about computer science and programming using python3.8 and C+
   
  ##### Optimization
   - Concept : Objective Function, Constraints
+  - Vector Calculus
+  - Combinations, Permutations
   - Closed Form Solutions
   - Least Squares Solution
   - Brute Force Algorithm
