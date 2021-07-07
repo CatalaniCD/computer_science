@@ -90,3 +90,16 @@ by hyperplanes and whose corners are vertices.
 Constraint satisfaction is the process of finding a point in the feasible region.
     
 Source : https://en.wikipedia.org/wiki/Feasible_region
+
+## Line Search
+
+In optimization, the line search strategy is one of two basic iterative approaches to find a local minimum x∗ of an objective function f : R n → R . 
+The other approach is trust region.
+
+The line search approach first finds a descent direction along which the objective function f will be reduced and then computes a step size 
+that determines how far x should move along that direction. The descent direction can be computed by various methods, 
+such as gradient descent or quasi-Newton method. The step size can be determined either exactly or inexactly. 
+
+Source : https://en.wikipedia.org/wiki/Line_search
+
+
