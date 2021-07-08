@@ -142,6 +142,7 @@
     - in 'while' loop iteration may terminate when a conditional expression becomes false, cannot determine number of iterations; no guarantee of loop termination
     - monotonically increasing / decreasing of x
     - 'while' termination by forcing condition for loop continuation to become false : one or more tests possible
+          - case of while index if array[i-1] < [i],  monotonically increase i, else break
     
 ### 1.4 | Implementation of Algorithms
     1.4.1 | Use of procedures to emphasize the modularity
