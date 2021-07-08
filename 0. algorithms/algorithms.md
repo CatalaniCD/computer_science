@@ -49,6 +49,7 @@
     - """ Every problem must be considered on its merits """
     - Capability to methaphorically turn a problem upside down, inside out, sideways, backwards, forwards, and so on
     - Once developed this skill it shouldd be possible to get started with any problem
+    
     1.2.5 | Working backwards from the solution
     - Assume that you already have the solution for the problem and then try to work backwards to the starting conditions
     - Even a guess at the solution to the problem may be enough to give us a foot hold to start on a problem
@@ -56,6 +57,7 @@
     - Technique : when we have solved a problem, conciusly reflect back on the way we went about discovering the solution
     - """ Practice is the most crucial thing of all developing problem-solving skills """
     - """ We Learn most when we invent """ J. Piaget
+    
     1.2.6 | Geneal problem-solving strategies
     - General and powerful computational strategies
     - Map a problem to one of these strategies and achieve considerable computational efficiency
