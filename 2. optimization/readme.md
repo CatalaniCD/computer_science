@@ -133,37 +133,37 @@ Vector calculus studies various differential operators defined on scalar or vect
 
 ##### Differential operators in vector calculus 
 
-Operation :Notation
-Description
-Notational Analogy
-Domain / Range
+    Operation :Notation
+    Description
+    Notational Analogy
+    Domain / Range
 
 Gradient : grad ⁡ ( f ) = ∇ f
-Measures the rate and direction of change in a scalar field. 	
-Scalar multiplication 	
-Maps scalar fields to vector fields.
+    - Measures the rate and direction of change in a scalar field. 	
+    - Scalar multiplication 	
+    - Maps scalar fields to vector fields.
 
 Divergence : div ⁡ ( F ) = ∇ ⋅ F
-Measures the scalar of a source or sink at a given point in a vector field. 	
-Dot product 	
-Maps vector fields to scalar fields.
+    - Measures the scalar of a source or sink at a given point in a vector field. 	
+    - Dot product 	
+    - Maps vector fields to scalar fields.
 
 Curl : curl ⁡ ( F ) = ∇ × F 
-Measures the tendency to rotate about a point in a vector field in R 3.
-Cross product
-Maps vector fields to (pseudo)vector fields.
+    - Measures the tendency to rotate about a point in a vector field in R 3.
+    - Cross product
+    - Maps vector fields to (pseudo)vector fields.
 
 *f denotes a scalar field and F denotes a vector field 
 
 ###### Laplace operators in vector calculus 
 
 Laplacian :	Δ f = ∇ 2 f = ∇ ⋅ ∇ f
-Measures the difference between the value of the scalar field with its average on infinitesimal balls. 	
-Maps between scalar fields.
+    - Measures the difference between the value of the scalar field with its average on infinitesimal balls. 	
+    - Maps between scalar fields.
 
 Vector Laplacian : ∇ 2 F = ∇ ( ∇ ⋅ F ) − ∇ × ( ∇ × F ) 
-Measures the difference between the value of the vector field with its average on infinitesimal balls. 	
-Maps between vector fields. 
+    - Measures the difference between the value of the vector field with its average on infinitesimal balls. 	
+    - Maps between vector fields. 
 
 #### Integral theorems
 
@@ -171,31 +171,31 @@ The three basic vector operators have corresponding theorems which generalize th
 
 ##### Integral theorems of vector calculus 
 
-Theorem
-Statement
-Description
+    Theorem
+    Statement
+    Description
 
 Gradient theorem 	∫ L ⊂ R n ∇ φ ⋅ d r   =   φ ( q ) − φ ( p )      for      L = L [ p → q ] 
-The line integral of the gradient of a scalar field over a curve L is equal to the change in the scalar field between the endpoints p and q of the curve.
+    - The line integral of the gradient of a scalar field over a curve L is equal to the change in the scalar field between the endpoints p and q of the curve.
 
 Divergence theorem 	∫ ⋯ ∫ V ⊂ R n ⏟ n ( ∇ ⋅ F ) d V   =   ∮ ⋯ ∮ ∂ V ⏟ n − 1 F ⋅ d S 
-The integral of the divergence of a vector field over an n-dimensional solid V is equal to the flux of the vector field through the (n−1)-dimensional 
+    - The integral of the divergence of a vector field over an n-dimensional solid V is equal to the flux of the vector field through the (n−1)-dimensional 
 closed boundary surface of the solid.
 
 Curl (Kelvin–Stokes) theorem 	∬ Σ ⊂ R 3 ( ∇ × F ) ⋅ d Σ   =   ∮ ∂ Σ F ⋅ d r 
-The integral of the curl of a vector field over a surface Σ in R 3 is equal to the circulation of the vector field around the closed curve bounding the surface.φ denotes a scalar field and F denotes a vector field
-
-In two dimensions, the divergence and curl theorems reduce to the Green's theorem:
+    - The integral of the curl of a vector field over a surface Σ in R 3 is equal to the circulation of the vector field around the closed curve bounding the surface.φ denotes a scalar field and F denotes a vector field
 
 ##### Green's theorem of vector calculus 
+In two dimensions, the divergence and curl theorems reduce to the Green's theorem:
 
-Theorem 	
-Statement 	
-Description
+    Theorem 	
+    Statement 	
+    Description
 
 Green's theorem 	∬ A ⊂ R 2 ( ∂ M ∂ x − ∂ L ∂ y ) d A   =   ∮ ∂ A ( L d x + M d y ) 
-The integral of the divergence (or curl) of a vector field over some region A in R 2 equals the flux (or circulation) of the vector field over the closed curve bounding the region.
-For divergence, F = (M, −L). For curl, F = (L, M, 0). L and M are functions of (x, y).
+    - The integral of the divergence (or curl) of a vector field over some region A in R 2 equals the flux (or circulation) of the vector field over the closed curve bounding the region.
+
+*For divergence, F = (M, −L). For curl, F = (L, M, 0). L and M are functions of (x, y).
 
 #### Applications
 
