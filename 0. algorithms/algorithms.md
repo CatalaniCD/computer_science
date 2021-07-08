@@ -137,6 +137,11 @@
     - loop construction is simmilar to mathematical induction
     
     1.3.6 | Termination of loops
+    - in genearl loop termination conditions are dictated by the nature of the problem
+    - in 'for' loop iteration terminates after n steps
+    - in 'while' loop iteration may terminate when a conditional expression becomes false, cannot determine number of iterations; no guarantee of loop termination
+    - monotonically increasing / decreasing of x
+    - 'while' termination by forcing condition for loop continuation to become false : one or more tests possible
     
 ### 1.4 | Implementation of Algorithms
     1.4.1 | Use of procedures to emphasize the modularity
