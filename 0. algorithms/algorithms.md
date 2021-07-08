@@ -88,6 +88,15 @@
           - encounter specific and complex implementation details after done sufficient groundwork on the overall problem structure
     
     1.3.1 | Breaking a problem into sub-problems
+    - from problem-solving groundwork to the broadest solution outline
+    - single statement or a set of statements
+    - top-down design : take the general statements about the solution, one at a time, and break them down into a set of precise subtasks.
+    - preservation of the overall structure in the solution, comprehensible algorithm, solution proof of correctness 
+    - breakdown process stops when the subtask can be implemented as program statements
+    - Most algorithms : 2 or 3 levels, more for large projects
+    - smooth interface between stepwise refined algorithm and the final program implementation
+    - keep implementation task as simple as possible
+    
     1.3.2 | Choice of a suitable data structure
     1.3.3 | Construction of loops
     1.3.4 | Establishing initial conditions for loops
