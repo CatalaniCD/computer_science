@@ -69,7 +69,7 @@
     - dynamic programming : often used when we have to build up a solution to a problem via a sequence of intermediate steps
     - optimal substructure & overlapping problems: optimal solution can built up from optimal solutions to smaller problems
     - revelevant for optimization problems / operations research
-    - dp : greedy search, backtracking, brach and bound
+    - dp techniques : greedy search, backtracking, brach and bound
     - minimum amount of resources consumption on exploring solutions that have been stablished to be suboptimal
     
 ### 1.3 | Top-Down Design
