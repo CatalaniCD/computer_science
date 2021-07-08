@@ -101,14 +101,14 @@
     - keep implementation task as simple as possible
     
     1.3.2 | Choice of a suitable data structure
-     - decision when formulating computer solutions : choice of proper data structure
-     - programs operate on data, the way the data is organized impacts on every aspect of final solution
-     - proper data structures leads to simple, transparent and efficient implementations
-     - improper data structure leads to clumsy, inefficient and difficult implementations
-     - data structure selection can be refined as the algorithm is developed
-     - data structures and algorithms are usually intimately linked
-     - each problem must be considered on its merits
-     - Questions to decide about a data structure :
+    - decision when formulating computer solutions : choice of proper data structure
+    - programs operate on data, the way the data is organized impacts on every aspect of final solution
+    - proper data structures leads to simple, transparent and efficient implementations
+    - improper data structure leads to clumsy, inefficient and difficult implementations
+    - data structure selection can be refined as the algorithm is developed
+    - data structures and algorithms are usually intimately linked
+    - each problem must be considered on its merits
+    - Questions to decide about a data structure :
           1. How can intermediate the results be arranged to allow fast access to information that will reduce the amount 
           of computation required ar a later stage ?
           2. Can the data structure be easily searched ?
