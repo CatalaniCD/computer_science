@@ -101,7 +101,25 @@
     - keep implementation task as simple as possible
     
     1.3.2 | Choice of a suitable data structure
+     - decision when formulating computer solutions : choice of proper data structure
+     - programs operate on data, the way the data is organized impacts on every aspect of final solution
+     - proper data structures leads to simple, transparent and efficient implementations
+     - improper data structure leads to clumsy, inefficient and difficult implementations
+     - data structure selection can be refined as the algorithm is developed
+     - data structures and algorithms are usually intimately linked
+     - each problem must be considered on its merits
+     - Questions to decide about a data structure :
+          1. How can intermediate the results be arranged to allow fast access to information that will reduce the amount 
+          of computation required ar a later stage ?
+          2. Can the data structure be easily searched ?
+          3. Can the data structure be easily updated ?
+          4. Does the data structure provide a way of recovering an earlier state in computation ?
+          5. Does the data structure involve excessive use of storage ?
+          6. Is it possible to impose some data structure on a problem that is not initially apparent ?
+          7. Can the problem be formulated in terms of one of the common data structures (e.g. array, set, queue, stack, tree, graph, list) ?
+
     1.3.3 | Construction of loops
+    
     1.3.4 | Establishing initial conditions for loops
     1.3.5 | Finding the iterative construct
     1.3.6 | Termination of loops
