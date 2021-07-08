@@ -119,10 +119,25 @@
           7. Can the problem be formulated in terms of one of the common data structures (e.g. array, set, queue, stack, tree, graph, list) ?
 
     1.3.3 | Construction of loops
+    - implementation subtasks lead to iterative constructs and structures that are conditionally executed
+    - essetial structure for loops : 
+         - initial conditions before loop begins
+         - invariant relation after each iteration
+         - loop termination conditions
     
     1.3.4 | Establishing initial conditions for loops
+    - stablish initial conditions for a loop
+    - set the loop variables in order to solve the smallest problem associated with the loop
+    - typically the iterations are 0 <= i <= n
+    - the smallest problem usually match i == 0 or i == 1
+    
     1.3.5 | Finding the iterative construct
+    - once solved the smallest problem, extend to next smallest problem
+    - the solution for the next smallest problem can be built from the smallest problem
+    - loop construction is simmilar to mathematical induction
+    
     1.3.6 | Termination of loops
+    
 ### 1.4 | Implementation of Algorithms
     1.4.1 | Use of procedures to emphasize the modularity
     1.4.2 | Choice of variable names
