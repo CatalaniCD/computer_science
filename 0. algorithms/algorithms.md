@@ -39,8 +39,23 @@
     - Geometrical or schematic diagrams representing certain aspects of the problem can be usefully employed in many instances
     
     1.2.4 Similarities among problems
-    ***
+    - start on a problem by considering a specific example
+     - bring as much experience as possible to bear the current problem
+     - a good habit is to always make an effort to be aware of similarities among problems
+     - the more experience, tools and techniques one can bring to bear in tackling a given problem
+     - There is cases of experience blocking the discovery of a desirable and better solution to a problem
+     - Have cautious reliance on past experience
+     - It is usually wise, in the first instance at least, to try independently to solve the problem
+     - """ Every problem must be considered on its merits """
+     - Capability to methaphorically turn a problem upside down, inside out, sideways, backwards, forwards, and so on
+     - Once developed this skill it shouldd be possible to get started with any problem
     1.2.5 Working backwards from the solution
+    - Assume that you already have the solution for the problem and then try to work backwards to the starting conditions
+      - Even a guess at the solution to the problem may be enough to give us a foot hold to start on a problem
+      - write down ,as we go along the solution attempt,  the various steps and explorations made
+      - Technique : when we have solved a problem, conciusly reflect back on the way we went about discovering the solution
+      - """ Practice is the most crucial thing of all developing problem-solving skills """
+      - """ We Learn most when we invent """ J. Piaget
     1.2.6 Geneal problem-solving strategies
     
 ### 1.3 | Top-Down Design
