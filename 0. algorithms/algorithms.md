@@ -57,6 +57,18 @@
     - """ Practice is the most crucial thing of all developing problem-solving skills """
     - """ We Learn most when we invent """ J. Piaget
     1.2.6 Geneal problem-solving strategies
+    - General and powerful computational strategies
+    - Map a problem to one of these strategies and achieve considerable computational efficiency
+    - divide-and-conquer : divide the original problem into two or more subproblems and solve them more efficiently
+    - applications on sorting, selection and searching
+    - binary search complexity is log2 n comparisons
+    - sorting complexity is reduced from n^2 to n log2 n
+    - binary doubling : reverse of divide and conquer ( avoid generation of intermediate terms )
+    - dynamic programming : often used when we have to build up a solution to a problem via a sequence of intermediate steps
+    - optimal substructure & overlapping problems: optimal solution can built up from optimal solutions to smaller problems
+    - revelevant for optimization problems / operations research
+    - dp : greedy search, backtracking, brach and bound
+    - minimum amount of resources consumption on exploring solutions that have been stablished to be suboptimal
     
 ### 1.3 | Top-Down Design
     1.3.1 Breaking a problem into sub-problems
