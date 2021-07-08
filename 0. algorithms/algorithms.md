@@ -77,18 +77,15 @@
      design an algorithm which is capable of being implemented as a 
      correct and efficient computer program """
      - aspects of problem-solving and algorithm design
-     - define problem to be solved, vague idea of how to solve it, bring to bear powerful techiniques 
-     for designing algorithms
-     """ successful algorithm design lies in being able to manage 
-     the inherent complexity of problems """
+     - define problem to be solved, vague idea of how to solve it, bring to bear powerful techiniques for designing algorithms
+     """ successful algorithm design lies in being able to manage the inherent complexity of problems """
      - people is limited to focus one problem at time and a very limited span of logic or instructions
      - algorithm desing technique to overcome focus limitations : top-down design / stepwise refinement
      - top-down desing : 
           - from a vague outline to a precisely defined algorithms and program implementation
           - way of handling inherent logical complexity and details
           - build the solution in a stepwise fashion
-          - encounter specific and complex implementation details after done sufficient groundwork 
-          on the overall problem structure
+          - encounter specific and complex implementation details after done sufficient groundwork on the overall problem structure
     
     1.3.1 | Breaking a problem into sub-problems
     1.3.2 | Choice of a suitable data structure
