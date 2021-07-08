@@ -102,4 +102,118 @@ such as gradient descent or quasi-Newton method. The step size can be determined
 
 Source : https://en.wikipedia.org/wiki/Line_search
 
+## Vector Calculus
 
+Vector calculus, or vector analysis, is concerned with differentiation and integration of vector fields, primarily in 3-dimensional Euclidean space R 3. 
+The term "vector calculus" is sometimes used as a synonym for the broader subject of multivariable calculus, which spans vector calculus as well as 
+partial differentiation and multiple integration. Vector calculus plays an important role in differential geometry and in the study 
+of partial differential equations. It is used extensively in physics and engineering, especially in the description of electromagnetic fields, 
+gravitational fields, and fluid flow. 
+
+### Basic objects
+#### Scalar fields
+A scalar field associates a scalar value to every point in a space. The scalar is a mathematical number representing a physical quantity. 
+Examples of scalar fields in applications include the temperature distribution throughout space, the pressure distribution in a fluid, 
+and spin-zero quantum fields (known as scalar bosons), such as the Higgs field. These fields are the subject of scalar field theory.
+
+#### Vector fields
+A vector field is an assignment of a vector to each point in a space. A vector field in the plane, for instance, can be visualized as 
+a collection of arrows with a given magnitude and direction each attached to a point in the plane. Vector fields are often used to model, 
+for example, the speed and direction of a moving fluid throughout space, or the strength and direction of some force, such as the magnetic 
+or gravitational force, as it changes from point to point. This can be used, for example, to calculate work done over a line.
+
+#### Vectors and pseudovectors
+In more advanced treatments, one further distinguishes pseudovector fields and pseudoscalar fields, which are identical to vector fields 
+and scalar fields, except that they change sign under an orientation-reversing map: for example, the curl of a vector field is a pseudovector field, 
+and if one reflects a vector field, the curl points in the opposite direction. This distinction is clarified and elaborated in geometric algebra, 
+as described below.
+
+#### Differential operators
+Vector calculus studies various differential operators defined on scalar or vector fields, which are typically expressed in terms of the del operator ( ∇ ) also known as "nabla". The three basic vector operators are:
+
+##### Differential operators in vector calculus 
+
+Operation :Notation
+Description
+Notational Analogy
+Domain / Range
+
+Gradient : grad ⁡ ( f ) = ∇ f
+Measures the rate and direction of change in a scalar field. 	
+Scalar multiplication 	
+Maps scalar fields to vector fields.
+
+Divergence : div ⁡ ( F ) = ∇ ⋅ F
+Measures the scalar of a source or sink at a given point in a vector field. 	
+Dot product 	
+Maps vector fields to scalar fields.
+
+Curl : curl ⁡ ( F ) = ∇ × F 
+Measures the tendency to rotate about a point in a vector field in R 3.
+Cross product
+Maps vector fields to (pseudo)vector fields.
+
+*f denotes a scalar field and F denotes a vector field 
+
+###### Laplace operators in vector calculus 
+
+Laplacian :	Δ f = ∇ 2 f = ∇ ⋅ ∇ f
+Measures the difference between the value of the scalar field with its average on infinitesimal balls. 	
+Maps between scalar fields.
+
+Vector Laplacian : ∇ 2 F = ∇ ( ∇ ⋅ F ) − ∇ × ( ∇ × F ) 
+Measures the difference between the value of the vector field with its average on infinitesimal balls. 	
+Maps between vector fields. 
+
+#### Integral theorems
+
+The three basic vector operators have corresponding theorems which generalize the fundamental theorem of calculus to higher dimensions:
+
+##### Integral theorems of vector calculus 
+
+Theorem
+Statement
+Description
+
+Gradient theorem 	∫ L ⊂ R n ∇ φ ⋅ d r   =   φ ( q ) − φ ( p )      for      L = L [ p → q ] 
+The line integral of the gradient of a scalar field over a curve L is equal to the change in the scalar field between the endpoints p and q of the curve.
+
+Divergence theorem 	∫ ⋯ ∫ V ⊂ R n ⏟ n ( ∇ ⋅ F ) d V   =   ∮ ⋯ ∮ ∂ V ⏟ n − 1 F ⋅ d S 
+The integral of the divergence of a vector field over an n-dimensional solid V is equal to the flux of the vector field through the (n−1)-dimensional 
+closed boundary surface of the solid.
+
+Curl (Kelvin–Stokes) theorem 	∬ Σ ⊂ R 3 ( ∇ × F ) ⋅ d Σ   =   ∮ ∂ Σ F ⋅ d r 
+The integral of the curl of a vector field over a surface Σ in R 3 is equal to the circulation of the vector field around the closed curve bounding the surface.φ denotes a scalar field and F denotes a vector field
+
+In two dimensions, the divergence and curl theorems reduce to the Green's theorem:
+
+##### Green's theorem of vector calculus 
+
+Theorem 	
+Statement 	
+Description
+
+Green's theorem 	∬ A ⊂ R 2 ( ∂ M ∂ x − ∂ L ∂ y ) d A   =   ∮ ∂ A ( L d x + M d y ) 
+The integral of the divergence (or curl) of a vector field over some region A in R 2 equals the flux (or circulation) of the vector field over the closed curve bounding the region.
+For divergence, F = (M, −L). For curl, F = (L, M, 0). L and M are functions of (x, y).
+
+#### Applications
+
+##### Linear approximations
+
+Linear approximations are used to replace complicated functions with linear functions that are almost the same. Given a differentiable function f(x, y) with real values, one can approximate f(x, y) for (x, y) close to (a, b) by the formula
+
+    f ( x , y )   ≈   f ( a , b ) + ∂ f ∂ x ( a , b ) ( x − a ) + ∂ f ∂ y ( a , b ) ( y − b )
+    
+The right-hand side is the equation of the plane tangent to the graph of z = f(x, y) at (a, b).
+
+##### Optimization
+
+For a continuously differentiable function of several real variables, a point P (that is, a set of values for the input variables, which is viewed as 
+a point in Rn) is critical if all of the partial derivatives of the function are zero at P, or, equivalently, if its gradient is zero. 
+The critical values are the values of the function at the critical points.
+
+If the function is smooth, or, at least twice continuously differentiable, a critical point may be either a local maximum, a local minimum 
+or a saddle point. The different cases may be distinguished by considering the eigenvalues of the Hessian matrix of second derivatives.
+
+By Fermat's theorem, all local maxima and minima of a differentiable function occur at critical points. Therefore, to find the local maxima and minima, it suffices, theoretically, to compute the zeros of the gradient and the eigenvalues of the Hessian matrix at these zeros. 
