@@ -12,5 +12,5 @@ of systems too complex for analytical solutions.
 
 Source : https://en.m.wikipedia.org/wiki/Computer_simulation
 
-### Related
+### Related :
   [Backtesting](https://github.com/CatalaniCD/quantitative_finance/blob/main/algorithmic_trading/backtesting.md)
