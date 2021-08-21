@@ -69,3 +69,5 @@ Source : https://en.wikipedia.org/wiki/Computer_science
   - Data Modelling Principles
   - Object Oriented Desing
   - Programming Paradigms
+
+### [Machine Learning](https://github.com/CatalaniCD/machine_learning)
