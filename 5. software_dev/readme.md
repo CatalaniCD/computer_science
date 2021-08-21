@@ -14,4 +14,8 @@ There are many approaches to software project management, known as software deve
 
 Source : https://en.wikipedia.org/wiki/Software_development
 
+## Topics :
+
+[Programming Paradigms]()
 [Object Oriented Desing](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_desing.md)
+[Class Diagram]
