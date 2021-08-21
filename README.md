@@ -68,6 +68,6 @@ Source : https://en.wikipedia.org/wiki/Computer_science
   - Concept : Master Abstraction, Algorithmic Solutions and Automation (AAA)
   - Data Modelling Principles
   - Object Oriented Desing
-  - Programming Paradigms
+  - *Programming Paradigms
 
 ### [Machine Learning](https://github.com/CatalaniCD/machine_learning)
