@@ -22,7 +22,7 @@ For example, languages that fall into the imperative paradigm have two main feat
 
 Source : https://en.wikipedia.org/wiki/Programming_paradigm
 
-### Related Topics :
+### Topics
 
  [Imperative Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/imperative.md)
  
