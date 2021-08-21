@@ -1,4 +1,7 @@
 # Computer Simulation
+
+![alt text](https://github.com/CatalaniCD/computer_science/blob/main/4.%20simulation/sim.png?raw=true)
+
 Computer simulation is the process of mathematical modelling, performed on a computer, 
 which is designed to predict the behaviour of, or the outcome of, a real-world or physical system.
 The reliability of some mathematical models can be determined by comparing their results to 
