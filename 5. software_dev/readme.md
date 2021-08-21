@@ -1,6 +1,4 @@
 # Software Development Concepts
- 
-Software engineering is the systematic application of engineering approaches to the development of software
 
 ### Software Development
 
@@ -13,6 +11,10 @@ The need for better quality control of the software development process has give
 There are many approaches to software project management, known as software development life cycle models, methodologies, processes, or models. The waterfall model is a traditional version, contrasted with the more recent innovation of agile software development. 
 
 Source : https://en.wikipedia.org/wiki/Software_development
+
+### Software Engineering
+
+Software engineering is the systematic application of systematic engineering principles to the design, construction, and maintenance of large software applications.
 
 ## Topics :
 
