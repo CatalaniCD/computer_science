@@ -24,4 +24,4 @@ Software engineering is the systematic application of systematic engineering pri
 
 [Object Oriented Design](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_desing.md)
 
-[Class Diagram](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/class_diagram.md)
+[Class Diagram UML](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/class_diagram.md)
