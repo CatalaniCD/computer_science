@@ -2,6 +2,11 @@
 
 ![alt text](https://github.com/CatalaniCD/computer_science/blob/main/c_s.png?raw=true)
 
+Computer science is the study of algorithmic processes, computational machines and computation itself. As a discipline, computer science spans a range of topics from theoretical studies of algorithms, computation and information to the practical issues of implementing computational systems in hardware and software
+
+Source : https://en.wikipedia.org/wiki/Computer_science
+
+
 This repository is about computer science and programming using python3.8 and C++ coding languages
 
  ### [Algorithms](https://github.com/CatalaniCD/computer_science/tree/main/0.%20algorithms)
