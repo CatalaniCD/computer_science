@@ -1,5 +1,7 @@
 # Object Oriented Programming
 
+![alt text]()
+
 Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
 
 A feature of objects is that an object's own procedures can access and often modify the data fields of itself (objects have a notion of this or self). In OOP, computer programs are designed by making them out of objects that interact with one another. OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
@@ -12,8 +14,10 @@ Object-oriented programming uses objects, but not all of the associated techniqu
 See also: Comparison of programming languages (object-oriented programming) and List of object-oriented programming terms
 Shared with non-OOP languages
 
-    1. Variables that can store information formatted in a small number of built-in data types like integers and alphanumeric characters. This may include data structures like strings, lists, and hash tables that are either built-in or result from combining variables using memory pointers.
-    2. Procedures – also known as functions, methods, routines, or subroutines – that take input, generate output, and manipulate data. Modern languages include structured programming constructs like loops and conditionals.
+    1. Variables that can store information formatted in a small number of built-in data types like integers and alphanumeric characters. 
+    This may include data structures like strings, lists, and hash tables that are either built-in or result from combining variables using memory pointers.
+    2. Procedures – also known as functions, methods, routines, or subroutines – that take input, generate output, and manipulate data. 
+    Modern languages include structured programming constructs like loops and conditionals.
 
 Modular programming support provides the ability to group procedures into files and modules for organizational purposes. Modules are namespaced so identifiers in one module will not conflict with a procedure or variable sharing the same name in another file or module.
 
@@ -21,14 +25,16 @@ Modular programming support provides the ability to group procedures into files 
 
 Languages that support object-oriented programming (OOP) typically use inheritance for code reuse and extensibility in the form of either classes or prototypes. Those that use classes support two main concepts:
 
-    1. Classes – the definitions for the data format and available procedures for a given type or class of object; may also contain data and procedures (known as class methods) themselves, i.e. classes contain the data members and member functions
+    1. Classes – the definitions for the data format and available procedures for a given type or class of object; 
+    may also contain data and procedures (known as class methods) themselves, i.e. classes contain the data members and member functions
     2. Objects – instances of classes
 
 Objects sometimes correspond to things found in the real world. For example, a graphics program may have objects such as "circle", "square", "menu". An online shopping system might have objects such as "shopping cart", "customer", and "product". Sometimes objects represent more abstract entities, like an object that represents an open file, or an object that provides the service of translating measurements from U.S. customary to metric.
 
-    Object-oriented programming is more than just classes and objects; it's a whole programming paradigm based around [sic] objects (data structures) that contain data fields and methods. It is essential to understand this; using classes to organize a bunch of unrelated methods together is not object orientation.
-
-Junade Ali, Mastering PHP Design Patterns
+    "Object-oriented programming is more than just classes and objects; it's a whole programming paradigm based around objects (data structures) 
+    that contain data fields and methods. It is essential to understand this; using classes to organize a bunch of unrelated methods together 
+    is not object orientation."
+        Junade Ali, Mastering PHP Design Patterns
 
 Each object is said to be an instance of a particular class (for example, an object with its name field set to "Mary" might be an instance of class Employee). Procedures in object-oriented programming are known as methods; variables are also known as fields, members, attributes, or properties. This leads to the following terms:
 
@@ -36,7 +42,8 @@ Each object is said to be an instance of a particular class (for example, an obj
     2. Instance variables or attributes – data that belongs to individual objects; every object has its own copy of each one
     3. Member variables – refers to both the class and instance variables that are defined by a particular class
     4. Class methods – belong to the class as a whole and have access to only class variables and inputs from the procedure call
-    5. Instance methods – belong to individual objects, and have access to instance variables for the specific object they are called on, inputs, and class variables
+    5. Instance methods – belong to individual objects, and have access to instance variables for the specific object they are called on, 
+    inputs, and class variables
 
 Objects are accessed somewhat like variables with complex internal structure, and in many languages are effectively pointers, serving as actual references to a single instance of said object in memory within a heap or stack. They provide a layer of abstraction which can be used to separate internal from external code. External code can use an object by calling a specific instance method with a certain set of input parameters, read an instance variable, or write to an instance variable. Objects are created by calling a special type of method in the class known as a constructor. A program may create many instances of the same class as it runs, which operate independently. This is an easy way for the same procedures to be used on different sets of data.
 
