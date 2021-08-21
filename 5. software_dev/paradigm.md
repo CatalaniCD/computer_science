@@ -7,12 +7,19 @@ Some paradigms are concerned mainly with implications for the execution model of
 Common programming paradigms include:
 
     A. imperative in which the programmer instructs the machine how to change its state,
+    
         1. procedural which groups instructions into procedures,
+        
         2. object-oriented which groups instructions with the part of the state they operate on,
+        
     B. declarative in which the programmer merely declares properties of the desired result, but not how to compute it
+    
         1. functional in which the desired result is declared as the value of a series of function applications,
+        
         2. logic in which the desired result is declared as the answer to a question about a system of facts and rules,
+        
         3. mathematical in which the desired result is declared as the solution of an optimization problem
+        
         4. reactive in which the desired result is declared with data streams and the propagation of change
 
 Symbolic techniques such as reflection, which allow the program to refer to itself, might also be considered as a programming paradigm. However, this is compatible with the major paradigms and thus is not a real paradigm in its own right.
