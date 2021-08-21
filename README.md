@@ -57,7 +57,7 @@ Source : https://en.wikipedia.org/wiki/Computer_science
   - Greedy Algorithm
   - Convex optimization, Deep Learning Solvers
 
- ### [Simulation](https://github.com/CatalaniCD/computer_science/tree/main/2.%20optimization)
+ ### [Simulation](https://github.com/CatalaniCD/computer_science/tree/main/4.%20simulation)
   - Concept : Track the evolution of a complex math model
                   to measure outcomes or performance.
   - Types : Deterministic, Stochastic, 
