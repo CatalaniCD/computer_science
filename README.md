@@ -67,3 +67,5 @@ Source : https://en.wikipedia.org/wiki/Computer_science
  ### [Software Development](https://github.com/CatalaniCD/computer_science/tree/main/5.%20software_dev)
   - Concept : Master Abstraction, Algorithmic Solutions and Automation (AAA)
   - Data Modelling Principles
+  - Object Oriented Desing
+  - Programming Paradigms
