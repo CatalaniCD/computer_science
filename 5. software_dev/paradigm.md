@@ -21,3 +21,8 @@ Symbolic techniques such as reflection, which allow the program to refer to itse
 For example, languages that fall into the imperative paradigm have two main features: they state the order in which operations occur, with constructs that explicitly control that order, and they allow side effects, in which state can be modified at one point in time, within one unit of code, and then later read at a different point in time inside a different unit of code. The communication between the units of code is not explicit. Meanwhile, in object-oriented programming, code is organized into objects that contain a state that is only modified by the code that is part of the object. Most object-oriented languages are also imperative languages. In contrast, languages that fit the declarative paradigm do not state the order in which to execute operations. Instead, they supply a number of available operations in the system, along with the conditions under which each is allowed to execute. The implementation of the language's execution model tracks which operations are free to execute and chooses the order independently.
 
 Source : https://en.wikipedia.org/wiki/Programming_paradigm
+
+### Related Topics :
+ [Imperative Programming]()
+ [Procedural Programming]()
+ [Object Oriented Programming]() 
