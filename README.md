@@ -1,4 +1,7 @@
-# computer_science
+# Computer Science
+
+![alt text](https://github.com/CatalaniCD/computer_science/blob/main/c_s.png?raw=true)
+
 This repository is about computer science and programming using python3.8 and C++ coding languages
 
  ### [Algorithms](https://github.com/CatalaniCD/computer_science/tree/main/0.%20algorithms)
