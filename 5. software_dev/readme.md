@@ -16,7 +16,7 @@ Source : https://en.wikipedia.org/wiki/Software_development
 
 ## Topics :
 
-[Programming Paradigms]()
+[Programming Paradigms](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/paradigm.md)
 
 [Object Oriented Programming]()
 
