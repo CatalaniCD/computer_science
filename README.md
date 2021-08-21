@@ -1,6 +1,10 @@
 # computer_science
 This repository is about computer science and programming using python3.8 and C++ coding languages
 
+ ##### [Algorithms](https://github.com/CatalaniCD/computer_science/tree/main/0.%20algorithms)
+
+ ##### [Data Structures](https://github.com/CatalaniCD/computer_science/tree/main/1.%20data_structures)
+
  ##### Linear Data Structures
   - Arrays
   - Linked lists
