@@ -11,6 +11,3 @@ It can be used to explore and gain new insights into new technology and to estim
 of systems too complex for analytical solutions.
 
 Source : https://en.m.wikipedia.org/wiki/Computer_simulation
-
-### Related :
-  [Backtesting](https://github.com/CatalaniCD/quantitative_finance/blob/main/algorithmic_trading/backtesting.md)
