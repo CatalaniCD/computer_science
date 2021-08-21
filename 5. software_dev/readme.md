@@ -18,8 +18,8 @@ Source : https://en.wikipedia.org/wiki/Software_development
 
 [Programming Paradigms](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/paradigm.md)
 
-[Object Oriented Programming]()
+[Object Oriented Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_oriented.md)
 
-[Object Oriented Desing](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_desing.md)
+[Object Oriented Design](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_desing.md)
 
 [Class Diagram](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/class_diagram.md)
