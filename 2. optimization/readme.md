@@ -59,6 +59,10 @@ It often involves determining the way to efficiently allocate resources used to 
   
 ![alt text](https://github.com/CatalaniCD/computer_science/blob/main/2.%20optimization/combination.png?raw=true)
   
+#### Combinations
+
+In mathematics, a combination is a selection of items from a collection, such that the order of selection does not matter (unlike permutations). For example, given three fruits, say an apple, an orange and a pear, there are three combinations of two that can be drawn from this set: an apple and a pear; an apple and an orange; or a pear and an orange. More formally, a k-combination of a set S is a subset of k distinct elements of S.
+  
 Sources : 
 
 https://en.wikipedia.org/wiki/Combinatorial_optimization
