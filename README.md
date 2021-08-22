@@ -71,3 +71,6 @@ Source : https://en.wikipedia.org/wiki/Computer_science
   - *Programming Paradigms
 
 ### [Machine Learning](https://github.com/CatalaniCD/machine_learning)
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinfocement Learning
