@@ -1,5 +1,7 @@
 # Mathematical Optimization
 
+![alt text](https://github.com/CatalaniCD/computer_science/blob/main/2.%20optimization/optz.png)
+
 ### Simple Optimization
 
 Mathematical optimization (alternatively spelled optimisation) or mathematical programming is the selection of a best element, 
