@@ -41,6 +41,8 @@ Source : https://en.m.wikipedia.org/wiki/Convex_optimization
 
 ### Combinatorial Optimization
 
+![alt text](https://github.com/CatalaniCD/computer_science/blob/main/2.%20optimization/combination.png?raw=true)
+
 Combinatorial optimization is a subfield of mathematical optimization that is related to operations research, 
 algorithm theory, and computational complexity theory. It has important applications in several fields, 
 including artificial intelligence, machine learning, auction theory, software engineering,
@@ -57,7 +59,11 @@ with combinatorial optimization (which in turn is composed of optimization probl
 although all of these topics have closely intertwined research literature. 
 It often involves determining the way to efficiently allocate resources used to find solutions to mathematical problems. 
     
-Source : https://en.wikipedia.org/wiki/Combinatorial_optimization
+Sources : 
+
+https://en.wikipedia.org/wiki/Combinatorial_optimization
+
+https://en.wikipedia.org/wiki/Combination
 
 ## Search Space
 
