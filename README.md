@@ -74,3 +74,6 @@ Source : https://en.wikipedia.org/wiki/Computer_science
   - Supervised Learning
   - Unsupervised Learning
   - Reinfocement Learning
+
+### Data Bases
+  - MySQL
