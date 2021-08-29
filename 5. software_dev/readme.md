@@ -28,4 +28,4 @@ Software engineering is the systematic application of systematic engineering pri
 
 [Software Testing](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/testing.md)
 
-[Debugging](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/debuging.md)
+[Debugging](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/debugging.md)
