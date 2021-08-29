@@ -26,4 +26,6 @@ Software engineering is the systematic application of systematic engineering pri
 
 [Class Diagram UML](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/class_diagram.md)
 
-[Testing & Debugging](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/test_and_debug.md)
+[Software Testing](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/testing.md)
+
+[Debugging](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/debuging.md)
