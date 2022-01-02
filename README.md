@@ -78,4 +78,4 @@ Source : https://en.wikipedia.org/wiki/Computer_science
 ### Data Bases
   - MySQL
 
-### Bash
+### [Bash](https://github.com/CatalaniCD/computer_science/bash/readme.md)
