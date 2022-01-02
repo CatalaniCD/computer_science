@@ -6,7 +6,7 @@ Computer science is the study of algorithmic processes, computational machines a
 
 Source : https://en.wikipedia.org/wiki/Computer_science
 
-## This repository is about computer science and programming using python3.8+ and C++ coding languages
+## This repository is about computer science and programming using python3.8+, C++, and Bash coding languages
 
  ### [Algorithms](https://github.com/CatalaniCD/computer_science/tree/main/0.%20algorithms)
 
