@@ -1,4 +1,4 @@
-DASH(1)                                                              BSD General Commands Manual                                                             DASH(1)
+## BSD General Commands Manual : DASH(1)
 
 NAME
      dash — command interpreter (shell)
@@ -10,12 +10,14 @@ SYNOPSIS
      dash -s [-aCefnuvxIimqVEbp] [+aCefnuvxIimqVEbp] [-o option_name] [+o option_name] [argument ...]
 
 DESCRIPTION
+
      dash is the standard command interpreter for the system.  The current version of dash is in the process of being changed to conform with the POSIX 1003.2 and
      1003.2a specifications for the shell.  This version has many features which make it appear similar in some respects to the Korn shell, but it is not a Korn
      shell clone (see ksh(1)).  Only features designated by POSIX, plus a few Berkeley extensions, are being incorporated into this shell.  This man page is not
      intended to be a tutorial or a complete specification of the shell.
 
    Overview
+   
      The shell is a command that reads lines from either a file or the terminal, interprets them, and generally executes other commands.  It is the program that is
      running when a user logs into the system (although a user can select a different shell with the chsh(1) command).  The shell implements a language that has
      flow control constructs, a macro facility that provides a variety of features in addition to data storage, along with built in history and line editing capa‐
@@ -24,6 +26,7 @@ DESCRIPTION
      by the shell.
 
    Invocation
+   
      If no args are present and if the standard input of the shell is connected to a terminal (or if the -i flag is set), and the -c option is not present, the
      shell is considered an interactive shell.  An interactive shell generally prompts before each command and handles programming and command errors differently
      (as described below).  When first starting, the shell inspects argument 0, and if it begins with a dash ‘-’, the shell is also considered a login shell.  This
