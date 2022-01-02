@@ -78,4 +78,5 @@ Source : https://en.wikipedia.org/wiki/Computer_science
 ### Data Bases
   - MySQL
 
-### [Bash](https://github.com/CatalaniCD/computer_science/blob/main/bash/readme.md)
+### [Operating Systems](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/readme.md)
+
