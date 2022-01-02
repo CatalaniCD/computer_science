@@ -1,5 +1,7 @@
 # Operating Systems
 
+### [Bash]()
+
 ### Index: 
 
     1. Types of Operating Systems
@@ -18,7 +20,8 @@
       2.4 : User Interface
         2.4.1 : Graphical User Interphase
     3. Unix Like Operating Systems
-      3.1 : [Bash](https://github.com/CatalaniCD/computer_science/blob/main/bash/readme.md) 
-  
-
+      3.1 : Bash
+      
+      
+      
 source : https://en.wikipedia.org/wiki/Operating_system
