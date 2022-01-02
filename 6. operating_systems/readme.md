@@ -2,7 +2,7 @@
 
 ### [Bash]()
 
-### Index: 
+### Index
 
     1. Types of Operating Systems
     2. Components
