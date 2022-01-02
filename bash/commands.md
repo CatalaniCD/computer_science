@@ -20,7 +20,7 @@ cat >> file1 : appending content from standard input
 cat file1 >> file2 : appending content to file2 from file1
 ```
 
-### C++ Compiler
+### compiler
 
 ```
   gcc : C Compiler
