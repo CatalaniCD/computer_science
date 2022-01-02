@@ -1,6 +1,6 @@
 # Operating Systems
 
-### [Bash]()
+### [Bash : : Unix shell and command language ](https://github.com/CatalaniCD/computer_science/tree/main/6.%20operating_systems/bash)
 
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
 
