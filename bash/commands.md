@@ -10,6 +10,7 @@
 - vi : text editor
 - nano : text editor
 - grep : search for PATTERN in each file
+- history : print commands history on terminal
 
 
 ### cat
