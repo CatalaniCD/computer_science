@@ -11,9 +11,18 @@
 - nano : text editor
 - grep : search for PATTERN in each file
 
+
+### cat
+```
+cat <filename> ... <filename_n> : print contents on standard output
+cat file1 > file2 : create file2 from file1 ( > input redirection )
+cat >> file1 : appending content from standard input
+cat file1 >> file2 : appending content to file2 from file1
+```
+
 ### C++ Compiler
 
-```bash
+```
   gcc : C Compiler
   g++ : C++ Compiler
   g++ --version : output version
