@@ -16,6 +16,5 @@ gcc : C Compiler
 g++ : C++ Compiler
 g++ --version : output version
 g++ <filename> -o <execname> : compile C++ <filename> [-o] place output in file <execname> ; if no -o, the output is placed by default in <a.out>
-    
-  $g++ helloworld.cpp -o exec.cpp 
-  $./exec.cpp : run the compiled version of helloworld.cpp
+        > $g++ helloworld.cpp -o exec.cpp 
+        > $./exec.cpp : run the compiled version of helloworld.cpp
