@@ -20,11 +20,23 @@ Course Topics
     1.3. Writing Basic Commands and Scripts
     1.4. Reading and Writing a File
     1.5. Handling Files and Directories
+        1.5.1. Navigating Directories
+        1.5.2. Copy Files and Directories
+        1.5.3. Rename/Move Files and Directories
+        1.5.4. Delete Files and Directories
     1.6. Input and Output Formatting
+        1.6.1. Formatting Output
+        1.6.2. Pipe Operators
+        1.6.3. Input Redirection
     
     2. Processes, Utilities, and Shell Programming Constructs
     2.1. File Attributes and Permissions
+        2.1.1. File Types and Named Pipes
+        2.1.2. Permissions
+        2.1.3. Handling Ownership
     2.2. Handling Processes
+        2.2.1. Handling Processes
+        2.2.2. Scheduling Jobs
     2.3. Shell Variables
     2.4. Expression Substitution
     2.5. Quoting
