@@ -12,7 +12,7 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 ### [Shell Programming]()
 
-Course Topics
+*Course Topics
 
     1. Linux and Shell Basics
     1.1. Introduction to Linux and Shell
