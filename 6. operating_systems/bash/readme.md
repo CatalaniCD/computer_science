@@ -44,8 +44,16 @@ Course Topics
     
     3. Moving Ahead with Shell Programming
     3.1. Loops
+    3.1.1. Introduction and While Loop
+    3.1.2. For loop and More
     3.2. Functions
+    3.2.1. Introduction to Functions
+    3.2.2. Scope of a Variable and Return in Functions
     3.3. Shell Utilities
+    3.3.1. Sort, cut and grep commands
+    3.3.2. The sed command
+    3.3.3. Displaying File Contents
+    3.3.4. Finding Files and Directories
     
     4. Shell Scripts and Other Utilities
     4.1. Working with awk
