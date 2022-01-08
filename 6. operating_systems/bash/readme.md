@@ -10,7 +10,11 @@ A security hole in Bash dating from version 1.03 (August 1989), dubbed Shellshoc
 
 source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
+**Compiling and Running C++, using pipes & arguments**
 
+    #!/bin/sh
+    g++ $1 | ./a.out
+    echo "\nstatus : file compiled & executed"
 
 **Loops and Conditional Execution**
 
