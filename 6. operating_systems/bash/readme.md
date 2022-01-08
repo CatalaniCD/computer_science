@@ -12,7 +12,7 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 
 
-##### Using Loops and Conditional Execution
+**Loops and Conditional Execution**
 
     #!/bin/sh
     read number
