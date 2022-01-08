@@ -12,11 +12,11 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 **Compiling and Running C++, using pipes & arguments**
 
-    ``` bash
+    '''bash
     #!/bin/bash
     g++ $1 | ./a.out
     echo "\nstatus : file compiled & executed"
-    ```
+    '''
 
 **Conditional Execution**
     
