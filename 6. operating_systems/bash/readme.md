@@ -54,6 +54,26 @@ Until
        echo "$number x $counter = $multiply"
        counter=$(($counter+1))
     done
+    
+**File System Recursive Tree Search**
+
+    listR() # Case of in-order recursion : start on a, a1, a11, a111, a12, a13, a121, 
+    {
+            cd $1
+            echo -e "\n Directory : $1"
+            ls --color=auto
+            list=`ls`
+            for file in $list
+            do
+                    if [ -d $file ]
+                    then
+                            listR $file
+                            cd ..
+                    fi
+            done
+    }
+
+    listR .
 
 ### [Shell Programming]()
 
