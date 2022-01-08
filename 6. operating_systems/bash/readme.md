@@ -29,7 +29,7 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
         echo "$name is not a directory"
     fi
 
-**Loop Execution**
+**While & Until Loop Execution**
 
     #!/bin/sh
     read number
@@ -39,6 +39,16 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
         multiply=$((number*counter))
         echo "$number x $counter = $multiply"
         counter=$(($counter+1))
+    done
+    
+    #!/bin/sh
+    read number
+    counter=1
+    until [ $counter -gt 10 ]
+    do
+       multiply=$(($number*$counter))
+       echo "$number x $counter = $multiply"
+       counter=$(($counter+1))
     done
 
 ### [Shell Programming]()
