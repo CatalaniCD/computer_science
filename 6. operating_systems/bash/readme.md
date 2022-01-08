@@ -16,7 +16,7 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
     g++ $1 | ./a.out
     echo "\nstatus : file compiled & executed"
 
-**Loops and Conditional Execution**
+**Loop Execution**
 
     #!/bin/sh
     read number
