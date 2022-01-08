@@ -13,7 +13,6 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 **Compiling and Running C++, using pipes & arguments**
 
     ```bash
-    #!/bin/sh
     g++ $1 | ./a.out
     echo "\nstatus : file compiled & executed"
     ```
