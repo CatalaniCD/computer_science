@@ -16,6 +16,19 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
     g++ $1 | ./a.out
     echo "\nstatus : file compiled & executed"
 
+**Conditional Execution**
+    
+    #!/bin/bash
+    read name
+    if [ -d $name ]
+    then
+        cd $name
+        touch helloworld.cpp
+        echo "File created"
+    else
+        echo "$name is not a directory"
+    fi
+
 **Loop Execution**
 
     #!/bin/sh
