@@ -10,6 +10,20 @@ A security hole in Bash dating from version 1.03 (August 1989), dubbed Shellshoc
 
 source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
+
+
+##### Using Loops and Conditional Execution
+
+    #!/bin/sh
+    read number
+    counter=1
+    while [ $counter -le 10 ]
+    do
+        multiply=$((number*counter))
+        echo "$number x $counter = $multiply"
+        counter=$(($counter+1))
+    done
+
 ### [Shell Programming]()
 
 Course Topics
