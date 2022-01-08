@@ -3,7 +3,6 @@
 **Create alias countLine for wc -l and use it**
 
   ```bash
-
   alias countLine="wc-l"
   countLine myScript.sh
   7  myScript.sh
