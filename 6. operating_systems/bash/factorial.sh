@@ -9,6 +9,6 @@ do
                 factorial=$(($factorial*$temp))
                 temp=$(($temp-1))
         done
-        echo $factorial
+        echo "Factorial of $number = $factorial"
         number=$(($number+1))
 done
