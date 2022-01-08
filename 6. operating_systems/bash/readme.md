@@ -12,12 +12,16 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 **Compiling and Running C++, using pipes & arguments**
 
+    ```bash
     #!/bin/sh
     g++ $1 | ./a.out
     echo "\nstatus : file compiled & executed"
+    ```
 
 **Conditional Execution**
     
+    
+    ```bash
     #!/bin/bash
     read name
     if [ -d $name ]
@@ -28,11 +32,13 @@ source : https://en.wikipedia.org/wiki/Bash_(Unix_shell)
     else
         echo "$name is not a directory"
     fi
+    ```
 
 **Loop Execution**
 
 While
 
+    ```bash
     #!/bin/sh
     read number
     counter=1
@@ -42,6 +48,7 @@ While
         echo "$number x $counter = $multiply"
         counter=$(($counter+1))
     done
+    ```
 
 Until    
     
@@ -54,9 +61,11 @@ Until
        echo "$number x $counter = $multiply"
        counter=$(($counter+1))
     done
-    
+    ```
+
 **File System Recursive Tree Search**
 
+    ```bash
     listR() # Case of in-order recursion : start on a, a1, a11, a111, a12, a13, a121, 
     {
             cd $1
@@ -74,6 +83,7 @@ Until
     }
 
     listR .
+    ```
 
 ### [Shell Programming]()
 
