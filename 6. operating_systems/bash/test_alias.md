@@ -27,5 +27,5 @@
 **Delete the alias**
 
   ```bash
-  $ unalias process
+  unalias process
   ```
