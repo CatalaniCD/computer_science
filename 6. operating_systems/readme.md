@@ -1,5 +1,10 @@
 # Operating Systems
 
+
+### [Unix / Linux Operative Systems]()
+
+### [Bash : Unix shell and command language](https://github.com/CatalaniCD/computer_science/tree/main/6.%20operating_systems/bash)
+
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
 
 Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.
@@ -10,7 +15,6 @@ The dominant general-purpose personal computer operating system is Microsoft Win
 
 Some operating systems require installation or may come pre-installed with purchased computers (OEM-installation), whereas others may run directly from media (i.e. live CD) or flash memory (i.e. USB stick). 
 
-### [Bash : Unix shell and command language](https://github.com/CatalaniCD/computer_science/tree/main/6.%20operating_systems/bash)
 
 ### Index
 
