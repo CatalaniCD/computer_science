@@ -1,4 +1,4 @@
-## 1. Types of operating systems
+# Types of operating systems
 
 ### Single-tasking and multi-tasking
 
@@ -27,3 +27,5 @@ A real-time operating system is an operating system that guarantees to process e
 ### Library
 
 A library operating system is one in which the services that a typical operating system provides, such as networking, are provided in the form of libraries and composed with the application and configuration code to construct a unikernel: a specialized, single address space, machine image that can be deployed to cloud or embedded environments. 
+
+source : https://en.wikipedia.org/wiki/Operating_system
