@@ -38,8 +38,8 @@
 
 ## File Internal Representation : Inodes
 * Data structure in file system that describes a file-system object such as a file or a directory
-* Each inode stores the attributes and disk block locations of the object's data
-* File-system object attributes may include metadata (times of last change, access, modification), as well as owner and permission data : ls -i
+* Each inode stores the attributes and disk block locations of the object's data : ls -i
+* File-system object attributes may include metadata (times of last change, access, modification), as well as owner and permission data
 * Each file is associated with an inode, which is identified by an integer, often referred to as an i-number or inode number
 * POSIX standard description for an inode : stat <filename>
   
