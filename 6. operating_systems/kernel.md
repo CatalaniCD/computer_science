@@ -55,7 +55,7 @@ When the kernel detects a page fault it generally adjusts the virtual memory ran
 
 In modern operating systems, memory which is accessed less frequently can be temporarily stored on disk or other media to make that space available for use by other programs. This is called swapping, as an area of memory can be used by multiple programs, and what that memory area contains can be swapped or exchanged on demand.
 
-"Virtual memory" provides the programmer or the user with the perception that there is a much larger amount of RAM in the computer than is really there.[37]
+"Virtual memory" provides the programmer or the user with the perception that there is a much larger amount of RAM in the computer than is really there.
 
 ### Multitasking
 
