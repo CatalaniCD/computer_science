@@ -1,4 +1,8 @@
-# Unix
+# Unix / Linux
+
+### [Bash : Unix shell and command language](https://github.com/CatalaniCD/computer_science/tree/main/6.%20operating_systems/bash)
+
+## Unix
 * Birth : 1970, AT&T Labs, led by Kenneth Thompson and Dennis Ritchie
 * Written in high level language, typically C
 * Easy to read and understand
@@ -8,7 +12,7 @@
 * Support different file systems
 * Every device is treated as a file
 
-# GNU / Linux
+## GNU / Linux
 * GNU is a recursive acronim for  "GNU's Not Unix"
 * Open Source System ( GPL Licence )
 * Developed from a scratch, using the same principles of unix
