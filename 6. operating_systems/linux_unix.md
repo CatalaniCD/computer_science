@@ -26,14 +26,14 @@
   - Fedora
   ```
  
-## [File System]
+## File System
 * Organized hirarchically as a tree
 * Ability to create and delete files / directories
 * Grow dynamically
 * Devices / Directories / Files are all treated as files
 * Protection of data
 
-![linux arch](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/file_system.png)
+![file system](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/file_system.png)
 
 
 ## [File Internal Representation : Inodes]()
