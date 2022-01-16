@@ -36,9 +36,26 @@
 ![file system](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/file_system.png)
 
 
-## [File Internal Representation : Inodes]()
-
-
+## File Internal Representation : Inodes
+* Data structure in file system that describes a file-system object such as a file or a directory
+* Each inode stores the attributes and disk block locations of the object's data
+* File-system object attributes may include metadata (times of last change, access, modification), as well as owner and permission data : ls -i
+* Each file is associated with an inode, which is identified by an integer, often referred to as an i-number or inode number
+* POSIX standard description for an inode : stat <filename>
+  
+![inode](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/ext2_inode.png)
+  
+## Inode Composition 
+  
+  file -> Inode
+  
+  * 12 index entries to Direct Data Blocks
+  * index n 13, to 128 pointers
+  * index n 14, to 128 pointers, to 128 pointers each one
+  * index n 15, to 128 pointers, to 128 pointers each one, to 128 pointers each one 
+   
+  
+  
 ## Architecture of a Linux System
 * System divided in layers
 
