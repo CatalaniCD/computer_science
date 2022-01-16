@@ -58,10 +58,6 @@ In modern operating systems, memory which is accessed less frequently can be tem
 "Virtual memory" provides the programmer or the user with the perception that there is a much larger amount of RAM in the computer than is really there.[37]
 
 ### Multitasking
-	
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2018) (Learn how and when to remove this template message)
-Main articles: Computer multitasking and Process management (computing)
-Further information: Context switch, Preemptive multitasking, and Cooperative multitasking
 
 Multitasking refers to the running of multiple independent computer programs on the same computer; giving the appearance that it is performing the tasks at the same time. Since most computers can do at most one or two things at one time, this is generally done via time-sharing, which means that each program uses a share of the computer's time to execute.
 
