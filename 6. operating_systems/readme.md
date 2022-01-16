@@ -16,7 +16,7 @@ The dominant general-purpose personal computer operating system is Microsoft Win
 Some operating systems require installation or may come pre-installed with purchased computers (OEM-installation), whereas others may run directly from media (i.e. live CD) or flash memory (i.e. USB stick). 
 
 
-### [1. Types of Operating Systems]()
+### [1. Types of Operating Systems](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/types.md)
 
 ## Opearting System Components
 
