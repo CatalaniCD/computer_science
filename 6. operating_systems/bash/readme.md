@@ -78,7 +78,7 @@ Until
 
 **Certification**
 
-### [Linux101.1x :Shell Programming](https://courses.edx.org/certificates/3ac9d51cc10d42088dda3cfeb8f74931)
+### [Linux101.1x : Shell Programming](https://courses.edx.org/certificates/3ac9d51cc10d42088dda3cfeb8f74931)
 
 Course Topics
 
