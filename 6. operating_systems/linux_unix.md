@@ -45,16 +45,14 @@
   
 ![inode](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/ext2_inode.png)
   
-## Inode Composition 
-  
-  file -> Inode
-  
-  * 12 index entries to Direct Data Blocks
-  * index n 13, to 128 pointers
-  * index n 14, to 128 pointers, to 128 pointers each one
-  * index n 15, to 128 pointers, to 128 pointers each one, to 128 pointers each one 
-   
-  
+ ## Inode Composition 
+* file -> Inode 
+* Block Size : 512 bytes
+* Block number address : 32 bits
+* Direct addressing : 12 * 512 bytes (6 Kb) -> 12 indexes entries to Direct Data Blocks
+* Single addressing : 128 * 512 bytes (64 Kb) -> index n 13, to 128 pointers
+* Double addressing : 128 * 128 * 512 bytes (8 Mb) ->  index n 14, to 128 pointers, to 128 pointers each one
+* Triple addressing : 128 * 128 * 128 * 512 bytes (1 Gb) -> index n 15, to 128 pointers, to 128 pointers each one, to 128 pointers each one    
   
 ## Architecture of a Linux System
 * System divided in layers
