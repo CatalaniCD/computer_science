@@ -19,12 +19,12 @@ Some operating systems require installation or may come pre-installed with purch
 
 The components of an operating system all exist in order to make the different parts of a computer work together. All user software needs to go through the operating system in order to use any of the hardware, whether it be as simple as a mouse or keyboard or as complex as an Internet component.
 
-### [2. Kernel]()
+### [2. Kernel](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/kernel.md)
 
-### [3. Networking]()
+### [3. Networking](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/networking.md)
 
-### [4. Security]()
+### [4. Security](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/security.md)
 
-### [5. User Interface]()
+### [5. User Interface](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/user_interface.md)
       
 source : https://en.wikipedia.org/wiki/Operating_system
