@@ -1,7 +1,7 @@
 # Operating Systems
 
 
-### [Unix / Linux Operative Systems]()
+### [Unix / Linux Operative Systems](https://github.com/CatalaniCD/computer_science/edit/main/6.%20operating_systems/linux_unix.md)
 
 An operating system (OS) is **system software that manages computer hardware, software resources, and provides common services for computer programs**.
 
