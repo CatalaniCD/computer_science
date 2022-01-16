@@ -32,7 +32,7 @@
 
 ## Architecture of a Linux System
 
-[!alt](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/linux_arch.png)
+![linux arch](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/linux_arch.png)
 
 ## Shell
 * Command Line Interpreter
