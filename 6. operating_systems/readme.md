@@ -16,16 +16,18 @@ The dominant general-purpose personal computer operating system is Microsoft Win
 Some operating systems require installation or may come pre-installed with purchased computers (OEM-installation), whereas others may run directly from media (i.e. live CD) or flash memory (i.e. USB stick). 
 
 
-### 1. [Types of Operating Systems]
+### [Types of Operating Systems]
 
 ## Opearting System Components
 
 The components of an operating system all exist in order to make the different parts of a computer work together. All user software needs to go through the operating system in order to use any of the hardware, whether it be as simple as a mouse or keyboard or as complex as an Internet component.
 
-### 2. [Kernel]()
+### [Kernel]()
 
-### 3. [Security]()
+### [Networking]()
 
-### 4. [User Interface]()
+### [Security]()
+
+### [User Interface]()
       
 source : https://en.wikipedia.org/wiki/Operating_system
