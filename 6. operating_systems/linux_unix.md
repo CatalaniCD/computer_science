@@ -26,13 +26,27 @@
   - Fedora
   ```
  
-## [File System]()
+## [File System]
+* Organized hirarchically as a tree
+* Ability to create and delete files / directories
+* Grow dynamically
+* Devices / Directories / Files are all treated as files
+* Protection of data
+
+![linux arch](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/file_system.png)
+
 
 ## [File Internal Representation : Inodes]()
 
+
 ## Architecture of a Linux System
+* System divided in layers
 
 ![linux arch](https://github.com/CatalaniCD/computer_science/blob/main/6.%20operating_systems/linux_arch.png)
+
+* Linux kernel communicates with the hardware ( OS -> Hardware )
+* Shell (and other) interact with the kernel, don't have direct access to hardware
+* Outermost layer can build on top of the low level programs
 
 ## Shell
 * Command Line Interpreter
