@@ -26,11 +26,13 @@
   - Fedora
   ```
  
-## [File System]
+## [File System]()
 
-### [File Internal Representation : Inodes]
+## [File Internal Representation : Inodes]()
 
-## [ Architecture of a Linux System ]
+## Architecture of a Linux System
+
+[!alt](image)
 
 ## Shell
 * Command Line Interpreter
