@@ -1,4 +1,18 @@
-# Bash
+# Shell
+
+A shell is a computer program which exposes an operating system's services to a human user or other programs. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation.
+
+Operating systems provide various services to their users, including file management, process management (running and terminating applications), batch processing, and operating system monitoring and configuration. 
+
+source : https://en.wikipedia.org/wiki/Shell_(computing)
+
+## Bourne Shell
+
+The Bourne shell, sh, was a new Unix shell by Stephen Bourne at Bell Labs. Distributed as the shell for UNIX Version 7 in 1979, it introduced the rest of the basic features considered common to all the later Unix shells, including here documents, command substitution, more generic variables and more extensive builtin control structures. The language, including the use of a reversed keyword to mark the end of a block, was influenced by ALGOL 68. Traditionally, the Bourne shell program name is sh and its path in the Unix file system hierarchy is /bin/sh. But a number of compatible work-alikes are also available with various improvements and additional features
+
+source : https://en.wikipedia.org/wiki/Unix_shell#Bourne_shell
+
+## Bourne Again Shell (Bash)
 
 Bash is a **Unix shell and command language** written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, **it has been used as the default login shell for most Linux distributions**. A version is also available for Windows 10 via the Windows Subsystem for Linux. It is also the default user shell in Solaris 11. Bash was also the default shell in all versions of Apple macOS prior to the 2019 release of macOS Catalina, which changed the default shell to zsh, although Bash remains available as an alternative shell.
 
