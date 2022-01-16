@@ -26,3 +26,32 @@
   - Fedora
   ```
  
+## [File System]
+
+### [File Internal Representation : Inodes]
+
+## [ Architecture of a Linux System ]
+
+## Shell
+* Command Line Interpreter
+* Uses terminal / console
+* Interacts with kernel
+* Execute commands and scripts
+
+## Applications
+* Day to day usage
+* Cron jobs (automating tasks) - i.e. backup everynight
+* Package installation
+* Cloud automation and cloning systems
+* Creating system images in the cloud
+* Database migrations
+* System Monitoring
+* Automating the build process
+* Running files in batch mode
+* Link various programs using pipes and filters
+* Scheduling and executing system tasks
+
+## Users
+* Users
+* Programmers
+* System Administrators
