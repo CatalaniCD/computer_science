@@ -90,7 +90,7 @@ Until
 
     listR .
 
-## Error Handling
+**Error Handling**
 
     #!/bin/bash
 
