@@ -90,6 +90,39 @@ Until
 
     listR .
 
+## Error Handling
+
+    #!/bin/bash
+
+    function try()
+    {
+        [[ $- = *e* ]]; SAVED_OPT_E=$?
+        set +e
+    }
+
+    function throw()
+    {
+        exit $1
+    }
+
+    function catch()
+    {
+        export ex_code=$?
+        (( $SAVED_OPT_E )) && set +e
+        return $ex_code
+    }
+
+    function throwErrors()
+    {
+        set -e
+    }
+
+    function ignoreErrors()
+    {
+        set +e
+    }
+
+
 **Certification**
 
 ### [Linux101.1x : Shell Programming](https://courses.edx.org/certificates/3ac9d51cc10d42088dda3cfeb8f74931)
