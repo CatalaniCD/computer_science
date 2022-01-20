@@ -24,8 +24,21 @@ Source : https://en.wikipedia.org/wiki/Programming_paradigm
 
 ### Topics
 
- [Imperative Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/imperative.md)
- 
- [Procedural Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/procedural.md)
- 
- [Object Oriented Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_oriented.md) 
+### [Imperative Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/imperative.md)
+
+### [Procedural Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/procedural.md)
+
+### [Object Oriented Programming](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/object_oriented.md) 
+
+### [Modular Programming](https://en.wikipedia.org/wiki/Modular_programming)
+
+### [Concurrent Computing](https://github.com/CatalaniCD/computer_science/blob/main/5.%20software_dev/concurrent_computing.md)
+
+### [Automate Based Programming](https://en.wikipedia.org/wiki/Automata-based_programming)
+
+### [Interface Based Programming](https://en.wikipedia.org/wiki/Interface-based_programming)
+
+### [Architectural Pattern](https://en.wikipedia.org/wiki/Architectural_pattern)
+
+### [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+
