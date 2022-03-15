@@ -2,7 +2,7 @@
 
 ### [Bash : Unix shell and command language](https://github.com/CatalaniCD/computer_science/tree/main/6.%20operating_systems/bash)
 
-### [C++]()
+### [C++](https://github.com/CatalaniCD/computer_science/tree/main/6.%20operating_systems/cpp)
 
 ## Unix
 * Birth : 1970, AT&T Labs, led by Kenneth Thompson and Dennis Ritchie
